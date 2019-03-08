@@ -61,3 +61,5 @@ typings/
 .next
 
 .DS_STORE
+*.iml
+.idea
